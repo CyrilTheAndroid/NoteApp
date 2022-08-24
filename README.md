@@ -14,7 +14,7 @@ Code issu de la mini formation Youtube "[Créer sa première application Android
 
 Installer Android Studio via le site officiel : https://developer.android.com/studio  
 Une fois l'installation terminée, récupérer l'URL ci-dessous et importer le projet avec "Project from Version Control..."\
-`https://github.com/CyrilTheAndroid/MyFragment2.git`
+`https://github.com/CyrilTheAndroid/NoteApp.git`
 
 ## Fonctionnalités
 
